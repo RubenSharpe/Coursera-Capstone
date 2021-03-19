@@ -1,0 +1,22 @@
+Crime level,Crime level code,Postal Code,Borough,Neighbourhood,Latitude,Longitude
+Low,1,M1G,Scarborough,Woburn,43.7709921,-79.2169174
+Low,1,M1L,Scarborough,"Golden Mile, Clairlea, Oakridge",43.7111117,-79.2845772
+Low,1,M1M,Scarborough,"Cliffside, Cliffcrest, Scarborough Village West",43.716316,-79.2394761
+Medium,2,M1P,Scarborough,"Dorset Park, Wexford Heights, Scarborough Town Centre",43.7574096,-79.273304
+Medium,2,M1W,Scarborough,"Steeles West, L'Amoreaux West",43.7995252,-79.3183887
+Low,1,M1X,Scarborough,Upper Rouge,43.8361247,-79.2056361
+Low,1,M2H,North York,Hillcrest Village,43.8037622,-79.3634517
+Low,1,M3H,North York,"Bathurst Manor, Wilson Heights, Downsview North",43.7543283,-79.4422593
+Low,1,M4P,Central Toronto,Davisville North,43.7127511,-79.3901975
+Low,1,M4S,Central Toronto,Davisville,43.7043244,-79.3887901
+High,3,M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.3831599
+Low,1,M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359
+High,3,M5B,Downtown Toronto,"Garden District, Ryerson",43.6571618,-79.3789371
+Medium,2,M5E,Downtown Toronto,Berczy Park,43.6447708,-79.3733064
+Low,1,M5N,Central Toronto,Roselawn,43.7116948,-79.4169356
+High,3,M5W,Downtown Toronto,Stn A PO Boxes,43.6464352,-79.374846
+Medium,2,M6G,Downtown Toronto,Christie,43.669542,-79.4225637
+High,3,M6J,West Toronto,"Little Portugal, Trinity",43.6479267,-79.4197497
+High,3,M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-79.3894938
+Low,1,M7R,Mississauga,Canada Post Gateway Processing Centre,43.6369656,-79.615819
+Low,1,M9M,North York,"Humberlea, Emery",43.7247659,-79.5322424
