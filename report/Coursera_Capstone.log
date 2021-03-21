@@ -1,0 +1,283 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.2.17)  21 MAR 2021 21:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Coursera_Capstone.tex
+(./Coursera_Capstone.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen137
+\captionmargin@=\dimen138
+\captionwidth=\dimen139
+\caption@tempdima=\dimen140
+\caption@indent=\dimen141
+\caption@parindent=\dimen142
+\caption@hangindent=\dimen143
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count175
+\c@continuedfloat=\count176
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+\c@subfigure=\count177
+\c@subtable=\count178
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count179
+\l__pdf_internal_box=\box45
+)
+(./Coursera_Capstone.aux)
+\openout1 = `Coursera_Capstone.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count180
+\scratchdimen=\dimen144
+\scratchbox=\box46
+\nofMPsegments=\count181
+\nofMParguments=\count182
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count183
+\MPscratchDim=\dimen145
+\MPnumerator=\count184
+\makeMPintoPDFobject=\count185
+\everyMPtoPDFconversion=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+
+(./Coursera_Capstone.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+\tf@toc=\write3
+\openout3 = `Coursera_Capstone.toc'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+[2]
+<pics/enriched.png, id=17, 618.31pt x 184.69pt>
+File: pics/enriched.png Graphic file (type png)
+<use pics/enriched.png>
+Package pdftex.def Info: pics/enriched.png  used on input line 71.
+(pdftex.def)             Requested size: 345.0pt x 103.05368pt.
+<pics/venues.png, id=19, 1068.99374pt x 184.69pt>
+File: pics/venues.png Graphic file (type png)
+<use pics/venues.png>
+Package pdftex.def Info: pics/venues.png  used on input line 95.
+(pdftex.def)             Requested size: 345.0pt x 59.60645pt.
+<pics/grouped.png, id=20, 845.1575pt x 315.1775pt>
+File: pics/grouped.png Graphic file (type png)
+<use pics/grouped.png>
+Package pdftex.def Info: pics/grouped.png  used on input line 99.
+(pdftex.def)             Requested size: 345.0pt x 128.66092pt.
+ [3 <./pics/enriched.png>]
+<pics/assault.png, id=28, 844.15375pt x 507.8975pt>
+File: pics/assault.png Graphic file (type png)
+<use pics/assault.png>
+Package pdftex.def Info: pics/assault.png  used on input line 129.
+(pdftex.def)             Requested size: 345.0pt x 207.58058pt.
+<pics/dissimilar.png, id=29, 396.48125pt x 182.6825pt>
+File: pics/dissimilar.png Graphic file (type png)
+<use pics/dissimilar.png>
+Package pdftex.def Info: pics/dissimilar.png  used on input line 152.
+(pdftex.def)             Requested size: 207.0021pt x 95.38011pt.
+<pics/manual.png, id=30, 841.1425pt x 507.8975pt>
+File: pics/manual.png Graphic file (type png)
+<use pics/manual.png>
+Package pdftex.def Info: pics/manual.png  used on input line 156.
+(pdftex.def)             Requested size: 345.0pt x 208.31682pt.
+ [4 <./pics/venues.png> <./pics/grouped.png>]
+[5 <./pics/assault.png>] [6 <./pics/dissimilar.png>]
+<pics/clusters3.png, id=44, 843.15pt x 509.905pt>
+File: pics/clusters3.png Graphic file (type png)
+<use pics/clusters3.png>
+Package pdftex.def Info: pics/clusters3.png  used on input line 176.
+(pdftex.def)             Requested size: 162.15042pt x 98.0578pt.
+<pics/clusters4.png, id=45, 847.165pt x 508.90125pt>
+File: pics/clusters4.png Graphic file (type png)
+<use pics/clusters4.png>
+Package pdftex.def Info: pics/clusters4.png  used on input line 182.
+(pdftex.def)             Requested size: 162.15042pt x 97.39886pt.
+<pics/clusters5.png, id=46, 842.14626pt x 508.90125pt>
+File: pics/clusters5.png Graphic file (type png)
+<use pics/clusters5.png>
+Package pdftex.def Info: pics/clusters5.png  used on input line 187.
+(pdftex.def)             Requested size: 162.15042pt x 97.98126pt.
+<pics/clusters7.png, id=47, 844.15375pt x 509.905pt>
+File: pics/clusters7.png Graphic file (type png)
+<use pics/clusters7.png>
+Package pdftex.def Info: pics/clusters7.png  used on input line 192.
+(pdftex.def)             Requested size: 162.15042pt x 97.9411pt.
+
+Overfull \hbox (3.80624pt too wide) in paragraph at lines 171--198
+\OT1/cmr/m/n/10 Neighbourhoods in Toronto can, based on their pub-lic venues, b
+roadly be grouped
+ []
+
+<pics/composition_0.png, id=48, 929.4725pt x 229.85875pt>
+File: pics/composition_0.png Graphic file (type png)
+<use pics/composition_0.png>
+Package pdftex.def Info: pics/composition_0.png  used on input line 203.
+(pdftex.def)             Requested size: 345.0pt x 85.31645pt.
+<pics/composition_2.png, id=49, 929.4725pt x 232.87pt>
+File: pics/composition_2.png Graphic file (type png)
+<use pics/composition_2.png>
+Package pdftex.def Info: pics/composition_2.png  used on input line 208.
+(pdftex.def)             Requested size: 345.0pt x 86.43414pt.
+<pics/clustercrime.png, id=50, 842.14626pt x 507.8975pt>
+File: pics/clustercrime.png Graphic file (type png)
+<use pics/clustercrime.png>
+Package pdftex.def Info: pics/clustercrime.png  used on input line 220.
+(pdftex.def)             Requested size: 345.0pt x 208.06883pt.
+<pics/assault2.png, id=51, 846.16125pt x 508.90125pt>
+File: pics/assault2.png Graphic file (type png)
+<use pics/assault2.png>
+Package pdftex.def Info: pics/assault2.png  used on input line 230.
+(pdftex.def)             Requested size: 162.15042pt x 97.51535pt.
+<pics/auto.png, id=52, 843.15pt x 510.90875pt>
+File: pics/auto.png Graphic file (type png)
+<use pics/auto.png>
+Package pdftex.def Info: pics/auto.png  used on input line 236.
+(pdftex.def)             Requested size: 162.15042pt x 98.25084pt.
+<pics/breakenter.png, id=53, 847.165pt x 506.89375pt>
+File: pics/breakenter.png Graphic file (type png)
+<use pics/breakenter.png>
+Package pdftex.def Info: pics/breakenter.png  used on input line 241.
+(pdftex.def)             Requested size: 162.15042pt x 97.01465pt.
+<pics/homicide.png, id=54, 842.14626pt x 508.90125pt>
+File: pics/homicide.png Graphic file (type png)
+<use pics/homicide.png>
+Package pdftex.def Info: pics/homicide.png  used on input line 247.
+(pdftex.def)             Requested size: 162.15042pt x 97.98126pt.
+<pics/robbery.png, id=55, 844.15375pt x 508.90125pt>
+File: pics/robbery.png Graphic file (type png)
+<use pics/robbery.png>
+Package pdftex.def Info: pics/robbery.png  used on input line 252.
+(pdftex.def)             Requested size: 162.15042pt x 97.7483pt.
+<pics/theftover.png, id=56, 844.15375pt x 508.90125pt>
+File: pics/theftover.png Graphic file (type png)
+<use pics/theftover.png>
+Package pdftex.def Info: pics/theftover.png  used on input line 258.
+(pdftex.def)             Requested size: 162.15042pt x 97.7483pt.
+[7 <./pics/manual.png>] [8 <./pics/clusters3.png> <./pics/clusters4.png> <./pic
+s/clusters5.png> <./pics/clusters7.png>] [9 <./pics/composition_0.png> <./pics/
+composition_2.png> <./pics/clustercrime.png>] [10 <./pics/assault2.png> <./pics
+/auto.png> <./pics/breakenter.png> <./pics/homicide.png> <./pics/robbery.png> <
+./pics/theftover.png>] (./Coursera_Capstone.aux) ) 
+Here is how much of TeX's memory you used:
+ 2498 strings out of 483183
+ 41191 string characters out of 5966292
+ 271555 words of memory out of 5000000
+ 17517 multiletter control sequences out of 15000+600000
+ 537546 words of font info for 41 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 41i,8n,42p,1195b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Coursera_Capstone.pdf (10 pages, 3525782 bytes).
+PDF statistics:
+ 120 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+
