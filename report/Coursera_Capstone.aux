@@ -15,25 +15,29 @@
 \newlabel{tab:crime}{{1}{4}}
 \@writefile{toc}{\contentsline {section}{\numberline {3}Methodology}{5}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Exploration of crime information}{5}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Choropleth map of assaults in 2019.\relax }}{5}\protected@file@percent }
-\newlabel{fig:assault}{{4}{5}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Statistical information of the dataset after an `inner' merge of geographical and crime datasets. Note the count of only 20 neigbourhoods in stead of the expected 140.\relax }}{6}\protected@file@percent }
-\newlabel{fig:dissimilar}{{5}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces The six crime categories and their spatial distribution (2019 crime rates).\relax }}{5}\protected@file@percent }
+\newlabel{fig:nbhcrime}{{4}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Spatial correlation of crime with neighbourhood information (a). Neighbourhoods that lie on purple areas may be manually labeled 'high-crime' (red dots), neighbourhoods on blue areas `medium-crime' (yellow dots) and neighbourhoods on light blue areas `low-crime' (light blue dots)(b).\relax }}{6}\protected@file@percent }
+\newlabel{fig:manual}{{5}{6}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Machine learning}{6}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.1}Exploration of neighbourhood clusters}{6}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.2}Modelling}{6}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Crime (assault) choropleth, plotted together with neighbourhood information. Neighbourhoods (dots) that lie on purple areas may be manually labeled 'high-crime', neighbourhoods on blue areas `medium-crime' and neighbourhoods on light blue areas `low-crime'.\relax }}{7}\protected@file@percent }
-\newlabel{fig:manual}{{6}{7}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.1}Unsupervised clustering of neighbourhoods and visual correlation with crime}{6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.2}Modelling}{7}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {4}Results}{7}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Visual inspection}{7}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Different distributions of three, four, five and seven clusters. Note that there are basically two stable clusters, concentrically oriented around the harbour. Increasing the number of clusters only causes small split offs.\relax }}{8}\protected@file@percent }
-\newlabel{fig:nbhclusters}{{7}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Different distributions of three, four, five and seven clusters. Note that there are basically two stable clusters, concentrically oriented around the harbour. Increasing the number of clusters only causes small split offs.\relax }}{8}\protected@file@percent }
+\newlabel{fig:nbhclusters}{{6}{8}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Accuracy of the decision tree predictions (on a test set).\relax }}{8}\protected@file@percent }
+\newlabel{tab:accuracy}{{2}{8}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Decision tree and SVM}{8}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {5}Discussion}{8}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {6}Conclusion}{8}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Compositions of the most stable clusters. Note that although these are stable and therefore very dissimilar, the dissimilarity is not intuitively obvious.\relax }}{9}\protected@file@percent }
-\newlabel{fig:composition}{{8}{9}}
-\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Spatial distribution of crime and of neighbourhood clusters.\relax }}{9}\protected@file@percent }
-\newlabel{fig:clustercrime}{{9}{9}}
-\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces The six crime categories, plotted with the five neighbourhood clusters.\relax }}{10}\protected@file@percent }
-\newlabel{fig:nbhcrime}{{10}{10}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Compositions of the most stable clusters. Note that although these are stable and therefore very dissimilar, the dissimilarity is not intuitively obvious.\relax }}{9}\protected@file@percent }
+\newlabel{fig:composition}{{7}{9}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Discussion}{9}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Correlating neighbourhood composition with high-crime areas}{9}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Spatial distribution of crime and of clusters with a similar public venue composition.\relax }}{10}\protected@file@percent }
+\newlabel{fig:clustercrime}{{8}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Correlating neighbourhood composition with medium- and low-crime areas}{10}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Although illegible, the graphical representation of the decision tree illustrates the explicit nature of the decisions that lead to a certain classification. These may therefore be used to predict to which tweaks this decision is particularly sensitive.\relax }}{11}\protected@file@percent }
+\newlabel{fig:tree}{{9}{11}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Conclusion}{11}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Graphical representation of the correlation between the predicted (via decision tree) and observed crime indices. Mislabelling of high-crime neighbourhoods is most frequent (red dots), whereas low crime neighbourhoods were most accurately predicted (light blue dots).\relax }}{12}\protected@file@percent }
+\newlabel{fig:predicted}{{10}{12}}
