@@ -2,12 +2,12 @@
 \contentsline {section}{\numberline {2}Data}{3}%
 \contentsline {subsection}{\numberline {2.1}Location data}{3}%
 \contentsline {subsection}{\numberline {2.2}Public venues}{3}%
-\contentsline {subsection}{\numberline {2.3}Crime data}{3}%
-\contentsline {section}{\numberline {3}Methodology}{5}%
-\contentsline {subsection}{\numberline {3.1}Exploration of crime information}{5}%
-\contentsline {subsection}{\numberline {3.2}Machine learning}{6}%
-\contentsline {subsubsection}{\numberline {3.2.1}Unsupervised clustering of neighbourhoods and visual correlation with crime}{6}%
-\contentsline {subsubsection}{\numberline {3.2.2}Modelling}{7}%
+\contentsline {subsection}{\numberline {2.3}Crime data}{4}%
+\contentsline {section}{\numberline {3}Methodology}{4}%
+\contentsline {subsection}{\numberline {3.1}Exploration of crime information}{4}%
+\contentsline {subsection}{\numberline {3.2}Machine learning}{5}%
+\contentsline {subsubsection}{\numberline {3.2.1}Unsupervised clustering of neighbourhoods and visual correlation with crime}{5}%
+\contentsline {subsubsection}{\numberline {3.2.2}Modelling}{6}%
 \contentsline {section}{\numberline {4}Results}{7}%
 \contentsline {subsection}{\numberline {4.1}Visual inspection}{7}%
 \contentsline {subsection}{\numberline {4.2}Decision tree and SVM}{8}%

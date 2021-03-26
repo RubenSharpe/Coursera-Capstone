@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.2.17)  22 MAR 2021 21:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.2.17)  26 MAR 2021 20:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -193,97 +193,98 @@ File: pics/theftover.png Graphic file (type png)
 Package pdftex.def Info: pics/theftover.png  used on input line 115.
 (pdftex.def)             Requested size: 162.15042pt x 97.95053pt.
  [4 <./pics/venues.png> <./pics/grouped.png>]
-[5 <./pics/assault2.png> <./pics/auto.png> <./pics/breakenter.png> <./pics/homi
-cide.png> <./pics/robbery.png> <./pics/theftover.png>]
-<pics/manual.png, id=48, 841.1425pt x 507.8975pt>
+<pics/manual.png, id=39, 841.1425pt x 507.8975pt>
 File: pics/manual.png Graphic file (type png)
 <use pics/manual.png>
 Package pdftex.def Info: pics/manual.png  used on input line 129.
 (pdftex.def)             Requested size: 162.15042pt x 97.90425pt.
-<pics/manual2.png, id=49, 841.1425pt x 506.89375pt>
+<pics/manual2.png, id=40, 841.1425pt x 506.89375pt>
 File: pics/manual2.png Graphic file (type png)
 <use pics/manual2.png>
 Package pdftex.def Info: pics/manual2.png  used on input line 133.
 (pdftex.def)             Requested size: 162.15042pt x 97.71077pt.
- [6 <./pics/manual.png> <./pics/manual2.png>]
-<pics/clusters3.png, id=55, 843.15pt x 509.905pt>
+
+[5] [6 <./pics/assault2.png> <./pics/auto.png> <./pics/breakenter.png> <./pics/
+homicide.png> <./pics/robbery.png> <./pics/theftover.png>]
+<pics/clusters3.png, id=53, 843.15pt x 509.905pt>
 File: pics/clusters3.png Graphic file (type png)
 <use pics/clusters3.png>
 Package pdftex.def Info: pics/clusters3.png  used on input line 157.
 (pdftex.def)             Requested size: 162.15042pt x 98.0578pt.
-<pics/clusters4.png, id=56, 847.165pt x 508.90125pt>
+<pics/clusters4.png, id=54, 847.165pt x 508.90125pt>
 File: pics/clusters4.png Graphic file (type png)
 <use pics/clusters4.png>
 Package pdftex.def Info: pics/clusters4.png  used on input line 163.
 (pdftex.def)             Requested size: 162.15042pt x 97.39886pt.
-<pics/clusters5.png, id=57, 842.14626pt x 508.90125pt>
+<pics/clusters5.png, id=55, 842.14626pt x 508.90125pt>
 File: pics/clusters5.png Graphic file (type png)
 <use pics/clusters5.png>
 Package pdftex.def Info: pics/clusters5.png  used on input line 168.
 (pdftex.def)             Requested size: 162.15042pt x 97.98126pt.
-<pics/clusters7.png, id=58, 844.15375pt x 509.905pt>
+<pics/clusters7.png, id=56, 844.15375pt x 509.905pt>
 File: pics/clusters7.png Graphic file (type png)
 <use pics/clusters7.png>
 Package pdftex.def Info: pics/clusters7.png  used on input line 173.
 (pdftex.def)             Requested size: 162.15042pt x 97.9411pt.
-<pics/composition_0.png, id=59, 929.4725pt x 229.85875pt>
+<pics/composition_0.png, id=57, 929.4725pt x 229.85875pt>
 File: pics/composition_0.png Graphic file (type png)
 <use pics/composition_0.png>
 Package pdftex.def Info: pics/composition_0.png  used on input line 183.
 (pdftex.def)             Requested size: 345.0pt x 85.31645pt.
-<pics/composition_2.png, id=60, 929.4725pt x 232.87pt>
+<pics/composition_2.png, id=58, 929.4725pt x 232.87pt>
 File: pics/composition_2.png Graphic file (type png)
 <use pics/composition_2.png>
 Package pdftex.def Info: pics/composition_2.png  used on input line 188.
 (pdftex.def)             Requested size: 345.0pt x 86.43414pt.
-<pics/clustercrime.png, id=61, 842.14626pt x 507.8975pt>
+<pics/clustercrime.png, id=59, 842.14626pt x 507.8975pt>
 File: pics/clustercrime.png Graphic file (type png)
 <use pics/clustercrime.png>
 Package pdftex.def Info: pics/clustercrime.png  used on input line 198.
 (pdftex.def)             Requested size: 345.0pt x 208.06883pt.
-<pics/decision_tree.png, id=62, 1806.75pt x 1445.4pt>
-File: pics/decision_tree.png Graphic file (type png)
-<use pics/decision_tree.png>
-Package pdftex.def Info: pics/decision_tree.png  used on input line 206.
-(pdftex.def)             Requested size: 345.0pt x 275.99626pt.
-<pics/prediction.png, id=63, 842.14626pt x 514.92375pt>
+ [7 <./pics/manual.png> <./pics/manual2.png>]
+<pics/detail.png, id=66, 483.30562pt x 403.5075pt>
+File: pics/detail.png Graphic file (type png)
+<use pics/detail.png>
+Package pdftex.def Info: pics/detail.png  used on input line 206.
+(pdftex.def)             Requested size: 207.0021pt x 172.82141pt.
+<pics/prediction.png, id=67, 842.14626pt x 514.92375pt>
 File: pics/prediction.png Graphic file (type png)
 <use pics/prediction.png>
 Package pdftex.def Info: pics/prediction.png  used on input line 224.
 (pdftex.def)             Requested size: 345.0pt x 210.94724pt.
- [7] [8 <./pics/clusters3.png> <./pics/clusters4.png> <./pics/clusters5.png> <.
-/pics/clusters7.png>]
+
 Overfull \hbox (13.04726pt too wide) in paragraph at lines 231--231
 []\OT1/cmr/bx/n/12 Correlating neigh-bour-hood com-po-si-tion with high-crime
  []
 
-[9 <./pics/composition_0.png> <./pics/composition_2.png>]
-Overfull \hbox (2.28336pt too wide) in paragraph at lines 238--238
+[8 <./pics/clusters3.png> <./pics/clusters4.png> <./pics/clusters5.png> <./pics
+/clusters7.png>] [9 <./pics/composition_0.png> <./pics/composition_2.png>]
+Overfull \hbox (2.28336pt too wide) in paragraph at lines 240--240
 []\OT1/cmr/bx/n/12 Correlating neigh-bour-hood com-po-si-tion with medium-
  []
 
-[10 <./pics/clustercrime.png>] [11 <./pics/decision_tree.png>] [12 <./pics/pred
-iction.png>] (./Coursera_Capstone.aux) ) 
+[10 <./pics/clustercrime.png>] [11 <./pics/detail.png>] [12 <./pics/prediction.
+png>] (./Coursera_Capstone.aux) ) 
 Here is how much of TeX's memory you used:
  2505 strings out of 483183
- 41347 string characters out of 5966292
- 273555 words of memory out of 5000000
+ 41305 string characters out of 5966292
+ 271555 words of memory out of 5000000
  17523 multiletter control sequences out of 15000+600000
  537546 words of font info for 41 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  41i,8n,42p,929b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Coursera_Capstone.pdf (12 pages, 3555971 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmti10.pfb>
+Output written on Coursera_Capstone.pdf (12 pages, 3700100 bytes).
 PDF statistics:
  128 PDF objects out of 1000 (max. 8388607)
  62 compressed objects within 1 object stream
